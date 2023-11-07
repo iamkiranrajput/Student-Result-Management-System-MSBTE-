@@ -26,7 +26,7 @@ Follow these steps to set up and run the project:
 
 4. **Access the Project**:
    - Open your web browser and access the project using the following URL: `http://localhost/marksheet/index.php`.
-   - Replace `your-project-folder` with the actual name of the folder where you placed the project files.
+   - Replace `marksheet` with the actual name of the folder where you placed the project files.
 
 5. **Run the Project**:
    - You can now interact with the project by creating, updating, and deleting student records and generating MSBTE marksheets.
