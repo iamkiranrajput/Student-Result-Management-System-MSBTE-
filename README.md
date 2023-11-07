@@ -33,6 +33,11 @@ Follow these steps to set up and run the project:
 
 5. **Run the Project**:
    - You can now interact with the project by creating, updating, and deleting student records and generating MSBTE marksheets.
+  
+
+##Scorecard Preview
+![scorecard](https://github.com/iamkiranrajput/Student-Result-Management-System-MSBTE-/assets/68410560/bd08b40b-2524-4238-82c5-5e97cc6f7d50)
+
 
 ## Project Details
 
