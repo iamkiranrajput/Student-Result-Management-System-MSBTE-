@@ -1,9 +1,9 @@
 
 # Student Academic Record Management Project
-![scorecard](https://github.com/iamkiranrajput/Student-Result-Management-System-MSBTE-/assets/68410560/6ade31ed-3e69-4a06-9027-cda7b85008e5)
-
-
 This is a Student Academic Record Management project that allows students to generate their MSBTE clone marksheet. The project is developed using HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, and MySQL, and it is intended to be run on the XAMPP web server.
+
+![4707122-removebg-preview](https://github.com/iamkiranrajput/Student-Result-Management-System-MSBTE-/assets/68410560/a2db2087-256c-4a63-aa45-b50a40d9c9d7)
+
 
 ## Prerequisites
 
